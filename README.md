@@ -1,4 +1,8 @@
 # Retinal-OCT-optical-coherence-tomography-Images-classification
+
+Medium blog related to this repo: https://blog.goodaudience.com/retinal-oct-optical-coherence-tomography-images-classification-using-cnn-ab228e2f2325
+
+
 Contains code for Deep Learning model for Retinal OCT(optical coherence tomography) Images classiﬁcation.
 
 5 layered CNN architecture gives best image classification results.
